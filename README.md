@@ -19,3 +19,6 @@ Lets say our starting node is Alice which we also set to the current node and th
            /     |    |   |    |    \
           D      C    D   B    C     B
     (end case #1)
+
+Answer #1: 664
+Answer #2: 640
